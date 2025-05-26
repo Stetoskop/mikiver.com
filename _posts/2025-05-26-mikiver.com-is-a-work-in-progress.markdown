@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Mikiver.com is a work in progress.."
+date:   2025-05-26 23:36:00 +0200
+categories: update
+---
+
+..the work is progressing.
+
+{% highlight ruby %}
+goodbye
+{% endhighlight %}
