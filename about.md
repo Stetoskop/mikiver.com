@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Info & Contact
+title: Info
 permalink: /info/
 ---
 
-Max Linus Gustavsson
-
+Max Linus Gustavsson  
 Based in Stockholm
 
-linus@mikiver.com
+linus@mikiver.com  
+linus.linus.linus.linus.
 
-Discord: linus.linus.linus.linus.
+[![pages-build-deployment](https://github.com/Stetoskop/mikiver.com/actions/workflows/pages/pages-build-deployment/badge.svg)][def]
+
+[def]: https://github.com/Stetoskop/mikiver.com/actions/workflows/pages/pages-build-deployment

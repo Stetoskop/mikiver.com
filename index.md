@@ -5,6 +5,4 @@
 layout: home
 ---
 
-[![pages-build-deployment](https://github.com/Stetoskop/mikiver.com/actions/workflows/pages/pages-build-deployment/badge.svg)][def]
-
-[def]: https://github.com/Stetoskop/mikiver.com/actions/workflows/pages/pages-build-deployment
+# 
