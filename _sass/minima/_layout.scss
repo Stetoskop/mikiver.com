@@ -170,6 +170,16 @@
   }
 }
 
+.footer-image {
+  text-align: center; /* Centers the image horizontally */
+  margin-top: 20px; /* Adds some spacing above the image */
+}
+
+.footer-image img {
+  max-width: 100%; /* Ensures the image is responsive */
+  height: auto; /* Maintains the aspect ratio */
+}
+
 
 
 /**
@@ -262,4 +272,19 @@
 
 a, a:visited, a:hover {
   text-decoration: none; /* Removes the underline in all states */
+}
+
+.content-wrapper {
+  display: flex; /* Enables flexbox layout */
+  align-items: flex-start; /* Aligns items at the top */
+  gap: 20px; /* Adds spacing between the text and the map */
+}
+
+.text-content {
+  flex: 1; /* Allows the text to take up the remaining space */
+}
+
+.map-container {
+  flex: 0 0 400px; /* Fixes the width of the map container */
+  margin-bottom: 20px; /* Adds spacing below the map */
 }

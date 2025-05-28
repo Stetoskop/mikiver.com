@@ -11,20 +11,17 @@
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          </li>
+          {%- if site.email -%}
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}
         </ul>
       </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-
     </div>
 
+    <!-- Add the footer image here -->
+    <div class="footer-image">
+      <img src="{{ '/assets/icons/footer.png' | relative_url }}" alt="Footer Image">
+    </div>
   </div>
-
 </footer>
