@@ -177,6 +177,7 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+  /*padding-top: $spacing-unit / 1.5;  Reduce the top padding */
   flex: 1;
 }
 
@@ -184,9 +185,9 @@
   @include relative-font-size(2);
 }
 
-.post-list-heading {
+/**.post-list-heading {
   @include relative-font-size(1.75);
-}
+}**/
 
 .post-list {
   margin-left: 0;
@@ -257,4 +258,8 @@
       @include relative-font-size(1.125);
     }
   }
+}
+
+a, a:visited, a:hover {
+  text-decoration: none; /* Removes the underline in all states */
 }
