@@ -207,6 +207,11 @@
   @include relative-font-size(1.5);
 }
 
+.page-link img {
+  image-rendering: pixelated; /* For modern browsers */
+  image-rendering: crisp-edges; /* Fallback for older browsers */
+}
+
 
 
 /**
