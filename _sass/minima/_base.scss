@@ -57,6 +57,12 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  image-rendering: pixelated; /* For modern browsers */
+  image-rendering: crisp-edges; /* Fallback for older browsers */
+}
+.page-link img {
+  image-rendering: pixelated; /* For modern browsers */
+  image-rendering: crisp-edges; /* Fallback for older browsers */
 }
 
 

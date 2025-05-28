@@ -1,5 +1,11 @@
-_site
-.sass-cache
+# Ignore Jekyll build artifacts
+.sass-cache/
+_site/
+# Ignore Jekyll metadata
 .jekyll-metadata
-vendor
-vsc
+# Ignore vendor directory
+vendor/
+# Ignore Visual Studio Code settings
+vsc/
+# Ignore macOS system files
+.DS_Store
