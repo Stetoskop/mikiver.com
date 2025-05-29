@@ -11,4 +11,6 @@ date: '2025-05-27 11:43:06'
 [Neal.fun](https://neal.fun/)  
 
 [a leaf on the wind](https://anism.org/lotw/index.html)  
+
+[blipville.se](https://web.archive.org/web/20051217101541/http://blipville.se/)  
 # **...**
