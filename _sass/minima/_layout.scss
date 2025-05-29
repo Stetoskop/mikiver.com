@@ -288,3 +288,12 @@ a, a:visited, a:hover {
   flex: 0 0 400px; /* Fixes the width of the map container */
   margin-bottom: 20px; /* Adds spacing below the map */
 }
+
+.columns {
+  display: flex; /* Enables flexbox layout */
+  gap: 20px; /* Adds spacing between the columns */
+}
+
+.column {
+  flex: 1; /* Ensures both columns take equal width */
+}

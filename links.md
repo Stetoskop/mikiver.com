@@ -2,6 +2,7 @@
 title: links
 layout: page
 date: '2025-05-27 11:43:06'
+permalink: "/links/"
 ---
 
 [Min sambo äter upp mina akvariefiskar](https://www.familjeliv.se/forum/thread/57270990-min-sambo-ater-upp-mina-akvariefiskar)
@@ -10,7 +11,7 @@ date: '2025-05-27 11:43:06'
 
 [Neal.fun](https://neal.fun/)  
 
-[a leaf on the wind](https://anism.org/lotw/index.html)  
+[A leaf on the wind](https://anism.org/lotw/index.html)  
 
-[blipville.se](https://web.archive.org/web/20051217101541/http://blipville.se/)  
+[Blipville.se](https://web.archive.org/web/20051217101541/http://blipville.se/)  
 # **...**

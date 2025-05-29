@@ -9,14 +9,14 @@ categories:
 # **Info**
 Basic info and contact information
 
-
 # **CV**
-Self-explanatory
-
+My precious accomplishments, wow!
 
 # **Links**
 A couple of links, they can lead anywhere. Mostly fun stuff I've found on the web.
 
+# **Music**
+My music, spanning from early 2017.
 
 # **Route**
 Give it a go, see what you'll find.  
