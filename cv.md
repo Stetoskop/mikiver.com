@@ -52,7 +52,7 @@ permalink: "/cv/"
   <div class="column">
 
   <!-- ERFARENHET & FÄRDIGHETER -->
-    <code>Experience and Skills</code><br><br>
+    <code>Skills and Experience</code><br><br>
 
     <strong>
     Linux/Unix-systems<br>
