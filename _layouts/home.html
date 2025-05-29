@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Recent Posts:" }}</h2>
+    <h3 class="post-list-heading">{{ page.list_title | default: "Welcome to Mikiver.com! <br> Below you can find website updates:" }}</h3>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>

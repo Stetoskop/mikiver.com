@@ -14,22 +14,22 @@ permalink: "/cv/"
   <div class="column">
     
   <!--ARBETSLIVSERFARENHETER -->
-    <code>Arbetslivserfarenhet</code><br><br>
+    <code>Work Experience</code><br><br>
     
     <p><strong>Vapify</strong><br>
-    Butikschef<br>
-    <em>2022  –  pågående</em></p>
+    Store Manager<br>
+    <em>2022  –  ongoing</em></p>
 
     <p><strong>Retune</strong><br>
-    IT-tekniker<br>
+    IT-technician<br>
     <em>2020  –  2021</em></p>
 
     <p><strong>Rumtiden Idea Lab</strong><br>
-    Tekniker<br>
+    Technician<br>
     <em>2019</em></p><br><br>
 
   <!-- UTBILDNING -->
-    <code>Utbildning</code><br><br>
+    <code>Education</code><br><br>
 
     <p><strong>NTI Komvux</strong><br>
     Programmering 1  –  C#<br>
@@ -37,12 +37,12 @@ permalink: "/cv/"
     <em>2022</em></p>
 
     <p><strong>Sigtuna Folkhögskola</strong><br>
-    Musik- och Ljudproduktion<br>
+    Music and sound production<br>
     <em>2019  –  2020</em></p>
   
     <p><strong>LBS Stockholm Södra Gymnasieskola</strong><br>
-    Media och kommunikation<br>
-    Spelgrafik<br>
+    Media and communication<br>
+    Game graphics<br>
     <em>2014  –  2017</em></p><br>
 
     <strong><a href="/assets/250130_CV.pdf">Full CV PDF</a></strong>
@@ -52,15 +52,21 @@ permalink: "/cv/"
   <div class="column">
 
   <!-- ERFARENHET & FÄRDIGHETER -->
-    <code>Erfarenhet & Färdigheter</code><br><br>
+    <code>Experience and Skills</code><br><br>
 
-    Linux/Unix-system<br>
-    Microsoft Windows-system<br>
-    Nätverksadministration<br>
-    Front-end Webbutveckling<br>
-    Git<br>
+    <strong>
+    Linux/Unix-systems<br>
+    Microsoft Windows-systems<br>
+    macOS-systems<br><br>
+
+    Network administration<br>
+    Front-end web development<br>
+    Embeded microcontrollers<br>
+    Git<br><br>
+
     Ableton Live Suite<br>
-    Godot & GDScript<br>
+    Godot & GDScript<br><br>
+    </strong>
 
     <strong>Adobe Suite:</strong>
     <ul>
@@ -71,11 +77,11 @@ permalink: "/cv/"
     </ul><br>
 
   <!-- SPRÅK -->
-    <code>Språk</code><br><br>
-    <strong>Svenska</strong><br>
-    <em>Modersmål</em><br><br>
-    <strong>Engelska</strong><br>
-    <em>Flytande</em><br><br>
-    <strong>Norska</strong><br>
-    <em>Grundläggande</em><br><br>
+    <code>Languages</code><br><br>
+    <strong>Swedish</strong><br>
+    <em>Native</em><br><br>
+    <strong>English</strong><br>
+    <em>Fluent</em><br><br>
+    <strong>Norwegian</strong><br>
+    <em>Basic</em><br><br>
   </div>
