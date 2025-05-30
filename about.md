@@ -30,7 +30,7 @@ permalink: "/info/"
         <li>Videogames with friends.</li>
         <li>Sleepovers.</li>
         <li>Learning new things.</li>
-        <li>Learning things that are hard to learn.</li>
+        <li>Doing things that are hard to learn.</li>
         <li>Creating music, graphics, videos.</li>
         <li>Puzzles.</li>
         <li>Programming software and games.</li>
