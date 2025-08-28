@@ -22,10 +22,14 @@
         <div class="trigger">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">
-              <img src="{{ '/assets/icons/page-title/' | append: my_page.title | append: '.png' | relative_url }}" alt="{{ my_page.title | escape }}">
-            </a>
+            {%- if my_page.title and my_page.permalink != "/" -%}
+              <a class="page-link" href="{{ my_page.url | relative_url }}">
+                <img 
+                  src="/assets/icons/page-title/{{ my_page.title | downcase }}.png" 
+                  alt="{{ my_page.title | escape }}" 
+                  style="height:32px;vertical-align:middle;"
+                >
+              </a>
             {%- endif -%}
           {%- endfor -%}
         </div>

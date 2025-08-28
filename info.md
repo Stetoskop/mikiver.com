@@ -12,14 +12,14 @@ permalink: "/info/"
     Based in Stockholm<br><br>
 
     Contact:<br>
-		<img src="/assets/icons/social/email.svg" alt="EMAIL"> <a href="mailto:linus@mikiver.com">linus@mikiver.com</a><br>
-	  <img src="/assets/icons/social/discord.svg" alt="DISCORD"> <a href="https://discord.com/users/120231176542748673">linus.linus.linus.linus.</a>
-		<br><br>
-		
+        <img src="/assets/icons/social/email.svg" alt="EMAIL"> <a href="mailto:linus@mikiver.com">linus@mikiver.com</a><br>
+      <img src="/assets/icons/social/discord.svg" alt="DISCORD"> <a href="https://discord.com/users/120231176542748673">linus.linus.linus.linus.</a>
+        <br><br>
+        
     Social:<br>
-		<img src="/assets/icons/social/youtube.svg" alt="YOUTUBE"> <a href="https://www.youtube.com/@DeLewrh">DeLewrh</a><br>
-		<img src="/assets/icons/social/github.svg" alt="GITHUB"> <a href="https://github.com/Stetoskop">Stetoskop</a><br>
-		<img src="/assets/icons/social/itchio.svg" alt="ITCHIO"> <a href="https://stetoskop.itch.io">Stetoskop</a><br>
+        <img src="/assets/icons/social/youtube.svg" alt="YOUTUBE"> <a href="https://www.youtube.com/@DeLewrh">DeLewrh</a><br>
+        <img src="/assets/icons/social/github.svg" alt="GITHUB"> <a href="https://github.com/Stetoskop">Stetoskop</a><br>
+        <img src="/assets/icons/social/itchio.svg" alt="ITCHIO"> <a href="https://stetoskop.itch.io">Stetoskop</a><br>
   </div>
   <div class="column">
     <div class="body">

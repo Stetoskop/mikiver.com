@@ -10,6 +10,13 @@
   position: relative;
 }
 
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
@@ -22,6 +29,10 @@
   &:visited {
     color: $grey-color-dark;
   }
+
+  // Optional: Make sure the title image doesn't shrink
+  flex-shrink: 0;
+  margin-right: 20px;
 }
 
 .site-nav {
@@ -45,6 +56,10 @@
       margin-right: 20px;
     }
   }
+
+  // Optional: Make sure nav doesn't overflow
+  flex-shrink: 0;
+  min-width: 0;
 
   @include media-query($on-palm) {
     position: absolute;

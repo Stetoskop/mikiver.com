@@ -5,7 +5,9 @@ _site/
 .jekyll-metadata
 # Ignore vendor directory
 vendor/
+# Ignore Bundler config
+.bundle/
 # Ignore Visual Studio Code settings
-vsc/
+.vscode/
 # Ignore macOS system files
 .DS_Store
