@@ -13,3 +13,5 @@ vendor/
 .DS_Store
 # Ignore workspace settings
 mikiver.com.code-workspace
+# Ignore GIMP files
+*.xcf
