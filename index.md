@@ -8,7 +8,7 @@ permalink: /
 
 Have something to say? Leave a message in the guestbook!
 
-<form method="POST" action="https://staticman-2ih4.onrender.com/v2/entry/Stetoskop/mikiver.com/main/guestbook">
+<form method="POST" action="https://staticman-stetoskops-projects.vercel.app/v3/entry/github/Stetoskop/mikiver.com/main/guestbook">
   <input name="fields[name]" type="text" placeholder="Your name" required>
   <textarea name="fields[message]" placeholder="Your message" required></textarea>
   <button type="submit">Submit</button>
