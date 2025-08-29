@@ -26,16 +26,14 @@ permalink: "/info/"
       <strong>Things I love:</strong>
       <ul>
         <li>Skateboarding.</li>
-        <li>Climbing (mainly boulder).</li>
+        <li>Climbing (boulder).</li>
         <li>Videogames with friends.</li>
         <li>Sleepovers.</li>
-        <li>Learning new things.</li>
         <li>Doing things that are hard to learn.</li>
         <li>Creating music, graphics, videos.</li>
         <li>Puzzles.</li>
         <li>Programming software and games.</li>
         <li>Work with embeded microcontrollers.</li>
-        <li>Creating solutions to any problem.</li>
         <li>Modifying videogame hardware.</li>
         <li>Soldering.</li>
         <li>My partner 2v.</li>

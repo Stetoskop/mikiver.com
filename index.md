@@ -6,24 +6,6 @@ permalink: /
 
 ## Guestbook
 
-Have something to say? Leave a message in the guestbook!
-CURRENTLY W.I.P, WILL NOT WORK!
+Hello viewer, leave a message in my guestbook!
+I'd love to hear from strangers and how they find their way to my website.
 
-<form method="POST" action="https://staticman-stetoskops-projects.vercel.app/v3/entry/github/Stetoskop/mikiver.com/main/guestbook">
-  <input name="fields[name]" type="text" placeholder="Your name" required>
-  <textarea name="fields[message]" placeholder="Your message" required></textarea>
-  <button type="submit">Submit</button>
-</form>
-
----
-
-### Entries
-
-{% for entry in site.data.guestbook %}
-  <div>
-    <p><strong>{{ entry.name }}</strong> said:</p>
-    <p>{{ entry.message }}</p>
-    <p><small>{{ entry.date | date_to_string }}</small></p>
-  </div>
-  <hr>
-{% endfor %}
