@@ -7,6 +7,7 @@ permalink: /
 ## Guestbook
 
 Have something to say? Leave a message in the guestbook!
+CURRENTLY W.I.P, WILL NOT WORK!
 
 <form method="POST" action="https://staticman-stetoskops-projects.vercel.app/v3/entry/github/Stetoskop/mikiver.com/main/guestbook">
   <input name="fields[name]" type="text" placeholder="Your name" required>
