@@ -28,6 +28,7 @@ permalink: "/info/"
         <li>Skateboarding.</li>
         <li>Climbing (boulder).</li>
         <li>Videogames with friends.</li>
+        <li>Filming and producing movies.</li>
         <li>Sleepovers.</li>
         <li>Doing things that are hard to learn.</li>
         <li>Creating music, graphics, videos.</li>
@@ -43,6 +44,7 @@ permalink: "/info/"
 </div>
 <br>
 <div class="body">
-    Find me at my workplace Monday through Friday:<br><br>
+    Find me at my workplace Monday through Friday:<br>
+    (Gmaps can take some time to load in...)<br><br>
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4071.6616326904877!2d18.062759!3d59.31908200000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f77aa519ae661%3A0x5ad80fe22d7b50b6!2sEciggkedjan%20-%20E-cigg%20%26%20Vapes!5e0!3m2!1sen!2sse!4v1748450652316!5m2!1sen!2sse" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

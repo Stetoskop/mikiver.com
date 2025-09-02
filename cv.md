@@ -57,14 +57,16 @@ permalink: "/cv/"
     <strong>
     Linux/Unix-systems<br>
     Microsoft Windows-systems<br>
-    macOS-systems<br><br>
+    macOS-systems<br>
+    Bash / ZSH<br><br>
 
     Network administration<br>
-    Front-end web development<br>
+    Fullstack development<br>
     Embeded microcontrollers<br>
     Git<br><br>
 
     Ableton Live Suite<br>
+    Logic Pro X<br>
     Godot & GDScript<br><br>
     </strong>
 
