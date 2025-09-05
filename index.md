@@ -4,6 +4,13 @@ title: Index
 permalink: /
 ---
 
+## LOOKING FOR WORK
+
+Hi! I'm currently looking for work. Please check out my [CV](/cv) and [INFO](/info) pages!\
+I'm a friendly and highly capable generalist who covers extensive technical ground in both software and hardware.\
+I'm a full-stack media production technician; image and video editing, music production, and design are second nature to me.\
+Contact me at: linus@mikiver.com
+
 ## Intro
 
 Hello visitor!\
