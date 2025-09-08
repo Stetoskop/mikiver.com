@@ -16,6 +16,7 @@
 title: Mikiver
 author: Max Linus Gustavsson
 email: linus@mikiver.com
+status: https://status.mikiver.com
 description: >- # this means to ignore newlines until "baseurl:"
   Titta runt lite.
 baseurl: "" # the subpath of your site, e.g. /blog
